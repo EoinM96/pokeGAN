@@ -24,6 +24,10 @@ This script defines the scructure of our Crititc (Determiantor) and Generator an
 
 This script implements the gradient penalty element of our WGAN, to be used in the training of our model.
 
+### Gen Output
+
+This script allows user to generate images from randomly initialised noise using the generator from model.py after utilising training.py. These are then saved into a user defined folder as PNG files.
+
 ## To Do
 * Attempt hyperparamter tweaking for better output
 * Implement variations of WGAN
