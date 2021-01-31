@@ -27,7 +27,6 @@ This script implements the gradient penalty element of our WGAN, to be used in t
 ## To Do
 * Attempt hyperparamter tweaking for better output
 * Implement variations of WGAN
-* Upload output
 
 ## Acknowledgments
 
